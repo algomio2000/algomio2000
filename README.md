@@ -1,5 +1,5 @@
-<h1 ali![Silvana Gonzalez](https://user-images.githubusercontent.com/105952350/216467144-fdf48f8f-39e6-4437-8e8f-f622e2a12f6e.png)
-gn="center"></h1><h3 align="center">Frontend Developer en Colombia</h3>
+(https://user-images.githubusercontent.com/105952350/216467144-fdf48f8f-39e6-4437-8e8f-f622e2a12f6e.png)
+<h3 align="center">Frontend Developer en Colombia</h3>
 
 
 - Actualmente estoy aprendiendo **Laboratoria**- Todos mis proyectos están disponibles en [www.linkedin.com/in/silvana-gonzalez-o](www.linkedin.com/in/silvana-gonzalez-o)
