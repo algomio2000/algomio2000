@@ -1,4 +1,4 @@
-<h1 aling="center"Silvana Gonzalez</h1>
+<h1 aling="center">Silvana Gonzalez</h1>
 <h3 align="center">Frontend Developer en Colombia</h3>
 
 
