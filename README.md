@@ -1,4 +1,4 @@
-<img 'https://user-images.githubusercontent.com/105952350/216467144-fdf48f8f-39e6-4437-8e8f-f622e2a12f6e.png'
+<h1>Silvana Gonzalez</h1>
 <h3 align="center">Frontend Developer en Colombia</h3>
 
 
